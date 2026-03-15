@@ -149,4 +149,4 @@ This dashboard helps HR teams:
 # Author
 
 Preety
-Data Analytics | Power BI | Python | Machine Learning
+Data Science | Data Analytics | Power BI | Python | Machine Learning
